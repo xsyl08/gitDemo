@@ -2,8 +2,7 @@ package com.zh.test;
 
 /**
  * 方法内的变量是局部变量，必须初始化，否则会报错；类里面的属性变量会在java运行时自动赋值，基本数据类型赋0/0.0，引用数据类型赋null。
- * @author Administrator
- *
+ * @author ZH
  */
 
 public class InitTestDemo {
